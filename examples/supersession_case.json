@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "title": "Treasury policy replacement",
+  "subject": "Treasury withdrawal policy for transfers above $50,000",
+  "supersession_claim": "Treasury Policy v3 replaces the prior signer requirement in Treasury Policy v2 for withdrawals above $50,000.",
+  "prior_rule": {
+    "statement": "Withdrawals above $50,000 require approval from three authorized signers.",
+    "label": "Treasury Policy v2",
+    "source_url": "https://example.com/treasury-policy-v2.txt"
+  },
+  "new_rule": {
+    "statement": "Effective September 1, Treasury Policy v3 replaces v2. Withdrawals above $50,000 require approval from two authorized signers.",
+    "label": "Treasury Policy v3",
+    "source_url": "https://example.com/treasury-policy-v3.txt"
+  }
+}
